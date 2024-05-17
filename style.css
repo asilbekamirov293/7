@@ -1,0 +1,26 @@
+.box {
+    background-color: white;
+}
+fieldset {
+    width: 250px;
+    margin: auto;
+    margin-top: 300px;
+    padding: 20px;
+}
+h2 {
+    color: blue;
+    margin-left: 60px;
+}
+button {
+    background-color: blue;
+    color: white;
+    width: 200px;
+    margin-left: 20px;
+}
+input {
+    width: 200px;
+    margin-left: 20px;
+}
+label {
+    margin-left: 20px;
+}
